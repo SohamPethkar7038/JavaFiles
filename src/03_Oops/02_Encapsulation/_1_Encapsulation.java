@@ -68,14 +68,12 @@
 // output : 20
 // Explanation:
 // age cannot be accessed directly
-// data is modified only through setAge()
+// data is modified only through setAge() ...setters
 // data is accessed through getAge()
 
 
 
-
-
-// Why Getter and Setter are Used
+// Why Getter and Setter are Used ?
 // -->  Getter and setter methods provide controlled access.
 
 // Getter
@@ -130,7 +128,7 @@
 // }
 
 // external code cannot directly change the balance;
-//only deposit and withdraw methods are allowed
+// only deposit and withdraw methods are allowed
 // this protect the object state
 
 
@@ -187,10 +185,10 @@
 // **************** immutable class **************************
 
 // an immutable class is a class whose object state cannot be changed after creation
-// once he object is created, its data remains constant forever
+// once the object is created, its data remains constant forever
 
 
-// rules to create immuatble class
+// rules to create immuatble class :
 // make class final
 // make variable private
 // make variable final

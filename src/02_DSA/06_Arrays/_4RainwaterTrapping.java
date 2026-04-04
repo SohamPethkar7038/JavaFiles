@@ -6,7 +6,10 @@
 // Output: 10
 // Explanation: Total water trapped = 0 + 3 + 2 + 3 + 0 + 2 + 0 = 10 units.
 
+// ans for better solution go on 5th program
 
+// min(leftMax,rightMax) - heightofbuilding......formula for calculating 
+//                                               rainwater trapping
 
 class Solution {
 

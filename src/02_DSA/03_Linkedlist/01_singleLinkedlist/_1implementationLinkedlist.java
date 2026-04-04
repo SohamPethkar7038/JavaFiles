@@ -29,7 +29,7 @@ class LinkedList{
 
     // insert at tail
 
-    public void insertAtTail(int data){
+    public void insertAtTail(int data) {
         Node newNode=new Node(data);
         if(head==null){
             head=newNode;
