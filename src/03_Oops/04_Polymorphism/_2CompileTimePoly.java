@@ -322,12 +322,12 @@
 // }
 // public class _2CompileTimePoly {
 //     public static void main(String[] args) {
-//         Test t = new Test();
+//Test t = new Test();
 //         t.show(null);
 //     }
 // }
 
 // output : compile time error (ambigious)
-// here null matches both integer and String
+// here null matches          both integer and String
 // any heirarchy between integer and string
 

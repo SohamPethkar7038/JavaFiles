@@ -1,4 +1,5 @@
 // writing program of inheritance using parameterized constructor
+
 // parent is also called base class and Child class is called Derived class
 
 // the program above wrote is single-level inheritance
